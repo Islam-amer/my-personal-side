@@ -1,0 +1,132 @@
+h1{
+  margin: 0;
+}
+body{
+  margin: 0;
+    font-family: 'Merriweather', serif;
+
+}
+div{
+  margin: 0;
+  text-align: center;
+  padding-top: 59px;
+
+}
+img{
+  margin: 0;
+}
+h1{
+  line-height: 2;
+font-family: 'Sacramento', cursive;
+font-size: 6.6rem;
+color: #66BFBF;
+}
+p{
+  margin: 0;
+  width: 25%;
+  margin: 5px auto 5px auto;
+  display: inline-block;
+  font-size: 1rem;
+}
+h2{
+  color:  #247881;
+}
+h3{
+  color: #39AEA9;
+}
+hr {
+  border:none;
+  border-top:6px dotted #EEEEEE;
+  color:#fff;
+  background-color:#fff;
+  height:4px;
+  width:20%;
+}
+/********************************* class ************************************/
+
+.top-continer{
+
+  background-color: #EFFFFD;
+  margin: 0;
+  text-align: center;
+  padding-top: 59px;
+
+}
+.web{
+  color: #66BFBF;
+  font-size: 2rem;
+}
+
+.porfile-name{
+  position: relative;
+  top: 50px;
+  text-align: center;
+
+}
+
+.first-class{
+  position: absolute;
+  left: 70%;
+}
+
+.sec-class{
+  position: absolute;
+  right: 80%;
+}
+.middle-container{
+  margin: 0;
+  padding: 0;
+
+}
+.skill-row{
+  padding: 0;
+
+}
+.skills{
+  padding: 0;
+}
+
+.design-img{
+  position: relative;
+  bottom: 30px;
+
+}
+.code-img{
+  margin-left: 20px;
+}
+.html-img{
+    margin-left: 20px;
+}
+
+
+.btn {
+
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+.bottom-container{
+  margin-top: 20px;
+  padding: 5px;
+  background-color:#3498db;
+}
+a{
+  color: #247881;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
